@@ -23,5 +23,7 @@ public class Main {
         System.out.println(cricketCoach.getDailyWorkout());
         System.out.println(cricketCoach.getName());
         System.out.println(cricketCoach.getTeam());
+
+        //dodany nowy komentarz
     }
 }

@@ -27,7 +27,6 @@
         <property name="team" value="${foo.team}"/>
         <property name="name" value="${foo.mail}"/>
     </bean>
-
 </beans>
 
 
